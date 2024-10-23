@@ -121,7 +121,11 @@ export const commands: Record<string, (args: string[]) => Promise<string> | stri
    ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
    ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
                                                                   
-           AI-powered trading bot | v${packageJson.version} v${packageJson.version}
+           AI-powered trading bot | v${packageJson.version}
+
+Stay connected:
+📢 Telegram: https://t.me/TerminalPumps
+🐦 Twitter: x.com/TerminalPumps
 
 Type 'help' to see list of available commands.
 `,
